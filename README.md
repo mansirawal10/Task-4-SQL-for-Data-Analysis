@@ -23,4 +23,4 @@ This project analyzes retail data from the Olist e-commerce dataset using SQL. I
 
 ### 🔹 a. Basic Querying
 
-!screenshot(screenshots/Picture 1.png)
+![Basic Querying](screenshots/Picture 1.png)
