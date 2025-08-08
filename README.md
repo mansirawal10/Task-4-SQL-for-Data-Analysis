@@ -6,7 +6,6 @@
 
 ---
 
-
 ## 📌 Overview
 
 This project analyzes retail data from the Olist e-commerce dataset using SQL. It demonstrates a structured approach to data analysis through:
@@ -19,8 +18,30 @@ This project analyzes retail data from the Olist e-commerce dataset using SQL. I
 
 ---
 
+
 ## 🧠 SQL Analysis Guide
 
 ### 🔹 a. Basic Querying
 
-![Basic Querying](screenshots/Picture 1.png)
+![Basic Querying](screenshots/Picture1.png)
+
+### 🔹 b. Joins, Inner Left
+
+![Joins](screenshots/Picture2.png)
+![Inner Left](screenshots/Picture3.png)
+
+### 🔹 c. Subqueries
+
+![Subqueries](screenshots/Picture4.png)
+
+### 🔹 d. Aggregate Functions
+
+![Aggregate Functions](screenshots/Picture5.png)
+
+### 🔹 e. Views for Analysis
+
+![Inner Left](screenshots/Picture6.png)
+
+### 🔹 f. Query optimiztion with Indexes
+
+![Query optimiztion with Indexes](screenshots/Picture7.png)
