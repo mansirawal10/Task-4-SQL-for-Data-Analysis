@@ -23,25 +23,38 @@ This project analyzes retail data from the Olist e-commerce dataset using SQL. I
 
 ### 🔹 a. Basic Querying
 
-![Basic Querying](screenshots/Picture1.png)
+![Basic Querying](screenshots/Picture%201.png)
 
 ### 🔹 b. Joins, Inner Left
 
-![Joins](screenshots/Picture2.png)
-![Inner Left](screenshots/Picture3.png)
+![Joins](screenshots/Picture%202.png)
+![Inner Left](screenshots/Picture%203.png)
 
 ### 🔹 c. Subqueries
 
-![Subqueries](screenshots/Picture4.png)
+![Subqueries](screenshots/Picture%204.png)
 
 ### 🔹 d. Aggregate Functions
 
-![Aggregate Functions](screenshots/Picture5.png)
+![Aggregate Functions](screenshots/Picture%205.png)
 
 ### 🔹 e. Views for Analysis
 
-![Inner Left](screenshots/Picture6.png)
+![Inner Left](screenshots/Picture%206.png)
 
 ### 🔹 f. Query optimiztion with Indexes
 
-![Query optimiztion with Indexes](screenshots/Picture7.png)
+![Query optimiztion with Indexes](screenshots/Picture%207.png)
+
+---
+
+
+
+## 🔗 Author
+**Mansi Rawal**
+
+Aspiring Business and Data Analyst
+
+[LinkedIn - Mansi Rawal](https://www.linkedin.com/in/mansi-rawal-537111223)
+
+---
